@@ -5,6 +5,17 @@
   body {
     background-color: #d5642f;
   }
+  .player-2 {
+    width: 400px;
+    height: 190px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 35%;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 2em;
+  } 
   .player {
     background-color: #ededed;
     width: 330px;
